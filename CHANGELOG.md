@@ -1,3 +1,22 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-api/compare/v0.1.3...v0.1.4) (2021-10-28)
+
+
+### Bug Fixes
+
+* **api:** `*CurItem` 方法调用错误 ([9f217ba](https://github.com/miaoxing/mxjs-api/commit/9f217ba0f1d5add02514c4c06153670ea34e2b3b))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.2.5` to `0.3.0`
+* **@mxjs/cur-url:** upgrade from `0.2.12` to `0.2.13`
+* **@mxjs/app:** upgrade from `0.3.2` to `0.3.3`
+* **@miaoxing/dev:** upgrade from `7.0.1` to `8.0.0`
+* **@mxjs/test:** upgrade from `0.1.8` to `0.2.0`
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-api/compare/v0.1.2...v0.1.3) (2021-05-12)
 
 
