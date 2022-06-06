@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/api",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "miaoxing": "^0.4.2",
-    "@mxjs/cur-url": "^0.2.18",
-    "@mxjs/app": "^0.5.0"
+    "@mxjs/cur-url": "^0.2.19",
+    "@mxjs/app": "^0.5.1"
   },
   "devDependencies": {
     "@miaoxing/dev": "^8.1.1",
-    "@mxjs/test": "^0.2.5"
+    "@mxjs/test": "^0.2.6"
   },
   "jest": {
     "preset": "jest-preset-miaoxing"
