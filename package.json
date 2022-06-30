@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/api",
-  "version": "0.1.10",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
