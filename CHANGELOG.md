@@ -1,3 +1,22 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-api/compare/v0.1.10...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([d8ab04e](https://github.com/miaoxing/mxjs-api/commit/d8ab04eb5e78b5d760735de3da048a9bf71e13c1))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.2` to `0.4.3`
+* **@mxjs/cur-url:** upgrade from `0.2.19` to `1.0.0`
+* **@mxjs/app:** upgrade from `0.5.1` to `0.5.2`
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+* **@mxjs/test:** upgrade from `0.2.6` to `1.0.0`
+
 ## [0.1.10](https://github.com/miaoxing/mxjs-api/compare/v0.1.9...v0.1.10) (2022-06-06)
 
 
