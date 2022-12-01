@@ -1,3 +1,15 @@
+## [1.0.2](https://github.com/miaoxing/mxjs-api/compare/v1.0.1...v1.0.2) (2022-12-01)
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.4` to `0.4.5`
+* **@mxjs/cur-url:** upgrade from `1.0.1` to `1.0.2`
+* **@mxjs/test:** upgrade from `1.0.1` to `1.0.2`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-api/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
