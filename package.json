@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -8,13 +8,13 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "miaoxing": "^0.4.6",
-    "@mxjs/cur-url": "^1.0.3",
-    "@mxjs/app": "^0.5.4"
+    "miaoxing": "^0.4.7",
+    "@mxjs/cur-url": "^1.0.4",
+    "@mxjs/app": "^0.5.5"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.0",
-    "@mxjs/test": "^1.0.3"
+    "@miaoxing/dev": "^8.2.1",
+    "@mxjs/test": "^1.0.4"
   },
   "jest": {
     "preset": "jest-preset-miaoxing"
