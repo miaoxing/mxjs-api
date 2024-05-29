@@ -5,22 +5,37 @@ const api = {};
 
 // HTTP methods
 
+/**
+ * @deprecated
+ */
 api.get = function (url, config) {
   return $.get($.apiUrl(url), config);
 };
 
+/**
+ * @deprecated
+ */
 api.post = function (url, config) {
   return $.post($.apiUrl(url), config);
 };
 
+/**
+ * @deprecated
+ */
 api.patch = function (url, config) {
   return $.patch($.apiUrl(url), config);
 };
 
+/**
+ * @deprecated
+ */
 api.put = function (url, config) {
   return $.put($.apiUrl(url), config);
 };
 
+/**
+ * @deprecated
+ */
 api.delete = function (url, config) {
   return $.delete($.apiUrl(url), config);
 };
