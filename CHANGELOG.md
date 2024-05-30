@@ -1,3 +1,21 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-api/compare/v1.0.12...v1.1.0) (2024-05-30)
+
+
+### Features
+
+* **api, deprecated:** 废弃 `get`, `post`, `patch`, `put` 和 `delete` 方法，改为直接使用 `$.xxx` 方法 ([04752bf](https://github.com/miaoxing/mxjs-api/commit/04752bfc39d5009ef729a85d375b3eda20c2bff9))
+
+
+
+
+
+### Dependencies
+
+* **miaoxing:** upgrade from `0.4.14` to `0.4.15`
+* **@mxjs/cur-url:** upgrade from `1.0.12` to `1.0.13`
+* **@mxjs/app:** upgrade from `0.7.0` to `0.8.0`
+* **@mxjs/test:** upgrade from `1.1.0` to `2.0.0`
+
 ## [1.0.12](https://github.com/miaoxing/mxjs-api/compare/v1.0.11...v1.0.12) (2024-05-01)
 
 
